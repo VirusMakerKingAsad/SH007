@@ -61,7 +61,7 @@ banner = """
 \x1b[1;92m➣ Coder   : ASAD ANSAARI
 \x1b[1;92m➣ Github  : HTTPS://GITHUB.COM/VIRUSMAKERKINGASAD
 \x1b[1;92m➣ Facebook:  ASAD ANSARI
-\x1b[1;92m➣ Whatsapp: 03034284226
+\x1b[1;92m➣ Whatsapp: 03214598890
 \x1b[1;94m----------°°°°°°°°°------------°°°°°°°°°----"""
 # titik #
 def tik():
@@ -132,7 +132,7 @@ def methodlogin():
 		hopa.close()
 		print "\n[✓] Logged In Successfully."
 		time.sleep(1)
-		os.system('xdg-open https://www.youtube.com/channel/UCPRlRzOAEH8mcB1WtXf4Q1w')
+		os.system('xdg-open https://www.youtube.com/channel/UCpfLeE7qhqT73fQ9DQz9O5g')
 		os.system('python2 .hop2.py')
 		
 	elif hos =="0":
