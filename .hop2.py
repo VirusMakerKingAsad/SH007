@@ -59,7 +59,7 @@ def hopss(z):
 ##### LOGO #####
 banner = """
 \x1b[1;91m  _________________________________________________
-\x1b[1;91m SPEED HACKER 007 FAMILY ALWAYS ON FIRE 
+\x1b[1;92m ASAD ANSAARI ON FIRE  
 \x1b[1;91m HATERZ MAKE ME FAMOUS 
 \x1b[1;91m 909 ST0P PH4D3B44Z 4S4D 49S44R1 09 F1R3
 \x1b[1;91m FB ID ;ASAD ANSARI 
@@ -69,7 +69,7 @@ banner = """
 \x1b[1;92m➣ Coder   : ASAD ANSAARI
 \x1b[1;92m➣ Github  : HTTPS://GITHUB.COM/VIRUSMAKERKINGASAD
 \x1b[1;92m➣ Facebook:  ASAD ANSARI
-\x1b[1;92m➣ Whatsapp: 03034284226
+\x1b[1;92m➣ Whatsapp: 03214598890
 \x1b[1;94m----------°°°°°°°°°------------°°°°°°°°°----"""
 # titik #
 def tik():
@@ -156,7 +156,7 @@ def men():
 		time.sleep(3)
 		os.hamza('python2 hop.py')
 	elif rana =="6":
-		os.system('xdg-open https://www.facebook.com/muhammad.hamza1626')
+		os.system('xdg-open https://www.youtube.com/channel/UCpfLeE7qhqT73fQ9DQz9O5g')
 		menu()
 	elif rana =="7":
 		os.system('rm -rf login.txt')
