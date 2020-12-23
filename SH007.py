@@ -53,15 +53,15 @@ def hamza(z):
 		time.sleep(0.03)
 ##### LOGO #####
 banner = """
-\x1b[1;91m  \    / |\ /| | /
-\x1b[1;93m   \  /  | • | |•
-\x1b[1;93m    \/   |   | | \
+\x1b[1;92m V M K  F O R C E
+\x1b[1;93m M A K E R  A S A D  A N S A A R I
+\x1b[1;94m O W N E R  A M I T  K U M A R
               (FREEDOM FIGHTER)
 \x1b[1;94m-----------°°°°°°°°°------------°°°°°°°°°-----
-\x1b[1;92m➣ Coder   : ASAD ANSAARI
-\x1b[1;92m➣ Github  : HTTPS://GITHUB.COM/VIRUSMAKERKINGASAD
-\x1b[1;92m➣ Facebook:  ASAD ANSARI
-\x1b[1;92m➣ Whatsapp: 03214598890
+\x1b[1;94m➣ Coder   : ASAD ANSAARI
+\x1b[1;95m➣ Github  : HTTPS://GITHUB.COM/VIRUSMAKERKINGASAD
+\x1b[1;96m➣ Facebook:  ASAD ANSARI
+\x1b[1;97m➣ Whatsapp: 03214598890
 \x1b[1;94m----------°°°°°°°°°------------°°°°°°°°°----"""
 # titik #
 def tik():
@@ -76,7 +76,7 @@ def tlogin():
 	os.system('clear')
 	print banner
 	username = raw_input("[+] TOOL USERNAME: ")
-	if username =="SH007":
+	if username =="ASAD":
 	    os.system('clear')
 	    print banner
 	    print "[✓] TOOL USERNAME: "+username+ " (correct)"
@@ -86,7 +86,7 @@ def tlogin():
 	    tlogin()
 	    
 	passw = raw_input("[+] TOOL PASSWORD: ")
-	if passw =="OWNER":
+	if passw =="ANSAARI":
 	    os.system('clear')
 	    print banner
 	    print "[✓] TOOL USERNAME: " +username+ " (correct)"
@@ -149,7 +149,7 @@ def login():
 		os.system("clear")
 		print (banner)
 		hamza('[+] Login Your Facebook Account')
-		hamza('[!] Donot Use Your Personal Account')
+		hamza('[!] Do Not Use Your Personal Account')
 		hamza('[!] Use a New Facebook Account To Login')
 		print'-------------------------------------'
 		iid=raw_input('[+] Number/Email: ')
